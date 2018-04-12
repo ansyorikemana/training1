@@ -16,5 +16,11 @@
             "type": "vcs",
             "url": "https://github.com/ansyorikemana/training1"
         }
-    ]
+    ],
+	"autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Kemana\\Training1\\": ""
+    }
+  }
 }
