@@ -2,7 +2,7 @@
     "name": "kemana/training1",
     "type": "magento-module",
     "description": "Kemana Extension : Kemana_Training1",
-	"version": "1.0.0",
+	"version": "1.0.0-stable",
 	"license": "Apache-2.0",
 	 "minimum-stability": "stable",
 	 "authors": [
