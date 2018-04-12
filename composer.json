@@ -2,10 +2,13 @@
     "name": "kemana/training1",
     "type": "magento-module",
     "description": "Kemana Extension : Kemana_Training1",
+	"version": "0.1.0",
     "authors": [
         {
             "name": "Ansyori ",
-            "email": "ansyori@kemana.com"
+            "email": "ansyori@kemana.com",
+			 "role": "Developer",
+			 "homepage": "http://kemana.com/",
         }
     ]
 }
