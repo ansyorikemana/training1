@@ -10,5 +10,11 @@
 		  "name": "Ansyori",
 		  "email": "ansyori@kemana.com"
 		}
-	  ]
+	  ],
+	  "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ansyorikemana/training1"
+        }
+    ]
 }
