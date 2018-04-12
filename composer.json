@@ -1,7 +1,7 @@
 {
     "name": "kemana/training1",
     "type": "magento-module",
-    "description": "Kemana module : Kemana_Training1",
+    "description": "Kemana Extension : Kemana_Training1",
     "authors": [
         {
             "name": "Ansyori ",
